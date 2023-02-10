@@ -1,0 +1,72 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+     {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Annie Palmer",
+    "title": "Amazon CEO of Worldwide Consumer Dave Clark resigns - CNBC",
+    "description": "Amazon's top retail boss is stepping down effective July 1, the company announced in a securities filing on Friday.",
+    "url": "https://www.cnbc.com/2022/06/03/amazon-ceo-of-worldwide-consumer-dave-clark-resigns.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106981464-1638194410443-2018-06-28T040527Z_704835468_RC17BBF900E0_RTRMADP_3_AMAZON-COM-DELIVERY.JPG?v=1638194681&w=1920&h=1080",
+    "publishedAt": "2022-06-03T16:13:42Z",
+    "content": "Dave Clark, CEO of Amazon's worldwide consumer business and a top lieutenant of CEO Andy Jassy, will resign July 1 after 23 years at the company, Amazon announced in a regulatory filing Friday.\r\nAmaz… [+3302 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Thomas Barrabi",
+    "title": "Meta investigated Sheryl Sandberg for using corporate resources to plan wedding: report - New York Post ",
+    "description": "Departing Meta executive Sheryl Sandberg announced her resignation from the tech giant in part during an ongoing probe into her alleged use of corporate resources to plan her wedding, according to …",
+    "url": "https://nypost.com/2022/06/03/meta-investigated-sheryl-sandberg-for-using-corporate-resources-to-plan-wedding-report/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/06/sheryl-sandberg-meta-wedding-comp-1.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2022-06-03T15:31:00Z",
+    "content": "Departing Meta executive Sheryl Sandberg announced her resignation from the tech giant during an ongoing probe into her alleged use of corporate resources to plan her wedding, according to a report T… [+3945 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "LIVE: President Biden delivers remarks on May jobs report — 6/3/2022 - CNBC Television",
+    "description": "President Biden delivers remarks on the May job reports.Nonfarm payrolls increased by 390,000 in May, above the 328,000 Dow Jones estimate. The unemployment ...",
+    "url": "https://www.youtube.com/watch?v=S2ckdfWXXV4",
+    "urlToImage": "https://i.ytimg.com/vi/S2ckdfWXXV4/maxresdefault.jpg",
+    "publishedAt": "2022-06-03T15:21:51Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MarketWatch"
+    },
+    "author": "Victor Reklaitis",
+    "title": "Biden dismisses Elon Musk's 'super bad feeling,' wishes SpaceX boss 'lots of luck on his trip to the moon' - MarketWatch",
+    "description": "President Joe Biden on Friday sounded dismissive when a reporter asked him about a report that billionaire Elon Musk said he has a \"super bad feeling\" about...",
+    "url": "https://www.marketwatch.com/story/biden-dismisses-elon-musks-super-bad-feeling-wishes-spacex-boss-lots-of-luck-on-his-trip-to-the-moon-2022-06-03",
+    "urlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+    "publishedAt": "2022-06-03T15:19:00Z",
+    "content": "President Joe Biden on Friday sounded dismissive when a reporter asked him about a report that billionaire Elon Musk said he has a \"super bad feeling\" about the economy. Biden said companies such as … [+326 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Jessica Dickler",
+    "title": "Wealthier Americans live paycheck to paycheck after inflation spike - CNBC",
+    "description": "Even wealthier Americans are feeling financially strained as the prices for goods keep climbing.",
+    "url": "https://www.cnbc.com/2022/06/03/wealthier-americans-live-paycheck-to-paycheck-after-inflation-spike.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106904750-1625065447969-gettyimages-1217476233-g1943_0150.jpeg?v=1625065472&w=1920&h=1080",
+    "publishedAt": "2022-06-03T15:12:10Z",
+    "content": "With inflation still hovering near 40-year highs, it's getting harder for workers across all income levels to make ends meet.\r\nThe Consumer Price Index, a key inflation metric, increased 8.3% in Apri… [+2637 chars]"
+    }
+
+    ]
+    }

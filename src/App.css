@@ -1,0 +1,55 @@
+.head{
+  font-family: 'Nunito', sans-serif;
+}
+span.top-head{
+  font-family: 'Nunito', sans-serif;
+  animation: color-change 8s infinite;
+  font-weight:bold;
+}
+@keyframes color-change {
+  0% { color: red; }
+  25% { color: #1abc9c; }
+  50% { color: #8e44ad; }
+  75% { color:#2980b9 ; }
+  100% { color: #f1870f; }
+}
+
+.nav-fonts{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size:20px;
+}
+.nav-fonts:hover{
+   color:white;
+   font-weight:bold;
+}
+.nav-brand-fonts{
+  font-family: 'Montserrat', sans-serif;
+  font-size:22px;
+  font-weight:bold;
+  padding-right:270px;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
